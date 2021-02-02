@@ -4,15 +4,12 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :**
-
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
--  **Technologies Used :**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+-  **Languages :** Ruby, Javascript, C#, GraphQL, Typescript
+-  **Technologies Used :** Git, Github, Rails, React, Stimulus
 -  **Hobbies :** GameDev & Video Games :video_game:
--  **Fact :** Abstraction is like salt. A little goes a long way, but too much spoils the bunch.
 -  **Organization :** Freshly
+
+_The first way design fails is due to lack of it. - Sandi Metz_
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=brandontrumpold&show_icons=true)
