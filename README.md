@@ -9,7 +9,8 @@
 -  **Hobbies :** GameDev & Video Games :video_game:
 -  **Organization :** Freshly
 
-_The first way design fails is due to lack of it. - Sandi Metz_
+_Design first, the code._ 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=brandontrumpold&show_icons=true)
