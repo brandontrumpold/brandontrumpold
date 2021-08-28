@@ -7,7 +7,7 @@
 -  **Languages :** Ruby, Javascript, C#, GraphQL, Typescript
 -  **Technologies Used :** Git, Github, Rails, React, Stimulus
 -  **Hobbies :** GameDev & Video Games :video_game:
--  **Organization :** Freshly
+-  **Organization :** Pair Eyewear | ex-Freshly
 
 _Design first, then code._ 
 
