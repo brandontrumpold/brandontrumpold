@@ -4,8 +4,8 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Ruby, Javascript, C#, GraphQL, Typescript
--  **Technologies Used :** Git, Github, Rails, React, Stimulus
+-  **Languages :** Ruby, Javascript, C#, Python, GraphQL, Typescript
+-  **Technologies Used :** Git, Github, Rails, React, Stimulus, 
 -  **Hobbies :** GameDev & Video Games :video_game:
 -  **Organization :** Pair Eyewear 🕶️
 
