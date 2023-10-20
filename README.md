@@ -3,12 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Ruby, Javascript, C#, Python, Typescript
 -  **Technologies Used :** Git, Github, Rails, React, GraphQL
 -  **Hobbies :** GameDev & Video Games :video_game:
 -  **Organization :** Pair Eyewear 🕶️
-
-_Design first, then code._ 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
