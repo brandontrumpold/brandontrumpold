@@ -6,6 +6,6 @@
 -  **Languages :** Ruby, Javascript, C#, Python, Typescript
 -  **Technologies Used :** Git, Github, Rails, React, GraphQL
 -  **Hobbies :** GameDev & Video Games :video_game:
--  **Organization :** Pair Eyewear 🕶️
+-  **Organizations :** Freshly, Pair Eyewear (Current)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
